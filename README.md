@@ -52,9 +52,10 @@ ORGANIC GOODS LOGIN AND REGISTER FORM TESTED with the Compiler and manully Testi
 </ul>
  <h3>✍️ Authors <a name = "authors"></a></h3>
                                    <P>Initiation & Idea <br>
-                                     <strong>Junie D Solemon</strong></p>
-                                   <h4>Manjunatha P</h4>
+                                     <strong>Manjunatha P</strong></p>
+                                   <h4></h4>
 <h2>🎉 Acknowledgements <a name = "acknowledgement"></a></h2>
                                                   <ul> 
+  <li>Junie D Solemon</li>
   <li>Code4Education website</li></ul>
 
