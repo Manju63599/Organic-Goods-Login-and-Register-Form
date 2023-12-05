@@ -51,7 +51,8 @@ ORGANIC GOODS LOGIN AND REGISTER FORM TESTED with the Compiler and manully Testi
  <li>JDBC</li>                                      
 </ul>
  <h3>✍️ Authors <a name = "authors"></a></h3>
-                                   <P>Initiation & Idea <strong>Junie D Solemon</strong></p>
+                                   <P>Initiation & Idea <br>
+                                     <strong>Junie D Solemon</strong></p>
                                    <h4>Manjunatha P</h4>
 <h2>🎉 Acknowledgements <a name = "acknowledgement"></a></h2>
                                                   <ul> 
