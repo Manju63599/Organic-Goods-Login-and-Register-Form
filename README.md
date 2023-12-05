@@ -6,7 +6,7 @@ Github documentation for a project
 </p>
 <h1 align="center">Organic Goods Login & Register Form</h1>
 <hr style="border 1px gray>
-<p align="center"> My Internship Project-1 is about creating the login and register page for the website to chec the authentication of the user to provide security to the user.My Project name is <strong>Organic Goods Login and Register Form</strong>.
+<p align="center"> This Project is about creating the login and register page for the website to check the authentication of the user to provide security to the userdata.Project name is <strong>Organic Goods Login and Register Form</strong>.
 </p>
 <h2>📝 Table of Contents</h2>
 <ul>
